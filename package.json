@@ -1,0 +1,11 @@
+{
+  "name": "bulbul4u-live",
+  "version": "1.0.0",
+  "description": "24/7 Live Stream Bot",
+  "main": "browser.js",
+  "dependencies": {
+    "puppeteer": "^22.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
